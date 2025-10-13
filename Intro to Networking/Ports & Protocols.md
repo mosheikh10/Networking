@@ -70,5 +70,5 @@ They make sure devices "understand each other."
 - **Protocols** = Rules 📜 that devices follow to communicate.  
 - **TCP** = Reliable 📬, ordered, connection-based.  
 - **UDP** = Fast ⚡, lightweight, connectionless (but less reliable).  
-```
+
 
