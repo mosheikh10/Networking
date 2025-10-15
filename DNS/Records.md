@@ -86,7 +86,7 @@ google.com.   IN   MX   20 backupmail.google.com.
 
 google.com.   IN   TXT   "v=spf1 include:_spf.google.com ~all"
 
-```
+
 ## ✅ Summary
 - **DNS Records** are the core entries within zone files that define how domains behave.  
 - They tell DNS resolvers where to send traffic, how to deliver emails, or how to verify ownership.  
