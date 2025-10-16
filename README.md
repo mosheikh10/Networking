@@ -1,4 +1,4 @@
-# 🌐 Networking 
+# 🖥️ Networking 🌐
 
 A collection of my personal notes and hands-on work while exploring **computer networking** — a core skill in my DevOps learning journey.  
 
