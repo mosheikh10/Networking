@@ -10,10 +10,19 @@ A collection of my personal notes and hands-on work while exploring **computer n
 
 Here’s what you’ll find:  
 
-## 🧪 Hands-On Project  
+## 🧪 Hands-On Project
 
-This repo also includes a **hands-on assignment** where I set up a **web server** and linked it to a **custom domain** using **AWS Route 53**.  
-That assignment helped me truly understand how **DNS records** and **internet routing** work in real-world scenarios.  
+This repository includes a **hands-on project** where I deployed a web server and linked it to a **custom domain** using **AWS Route 53**.  
+Through this assignment, I learned how **DNS records** and **internet routing** function in real-world setups.
+
+<p align="center">
+  <a href="https://github.com/mosheikh10/Networking/blob/main/Assignment.md" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Assignment-Click%20Here-blue?style=for-the-badge" alt="Assignment Link"/>
+  </a>
+</p>
+
+
+
 
 ## 📝 Networking Notes
 - 🌍 **Networking Fundamentals** — the basics of how computers connect and communicate  
