@@ -60,6 +60,8 @@ It has **four layers** instead of seven:
 - (2) Internet – IP, ICMP
 - (1) Network Access – Ethernet, Wi-Fi
 
+  "Imagine IP is the grandfather. TCP is father. HTTP is the son"
+
 ---
 
 ## 🆚 OSI Model vs TCP/IP Model
